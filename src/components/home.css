@@ -1,0 +1,29 @@
+.home-logout-btn{
+    height: 5rem;
+    width: 5rem;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 4rem;
+    right: 20px;
+    background: red;
+    border: none;
+    color: white;
+}
+
+.video-container{
+    height: 100vh;
+    width: 100vw;
+    background-color: black;
+    overflow-y: scroll;
+    scroll-snap-type: y mandatory;
+}
+
+input[type="file"]{
+    width: 6rem;
+    border: none;
+    outline: none;
+    position: fixed;
+    bottom: 12rem;
+    right: 2rem;
+
+}
